@@ -1,0 +1,7 @@
+//Starts with 90m GIMP DEM downloaded from http://research.bpcrc.osu.edu/GDG/gimpdem.php
+//Howat, I.M., A. Negrete, B.E. Smith, 2014, The Greenland Ice Mapping Project (GIMP) land classification and surface elevation datasets, 
+//The Cryosphere, 8, 1509-1518, doi:10.5194/tc-8-1509-2014
+//Reprojects into recognized Polar Stereographic
+//will need to edit exact input and output directories
+
+gdalwarp -overwrite -t_srs EPSG:3995 -r bilinear -of GTiff /Users/apope/Documents/GreenlandLakes/DEMs/gimpdem_90m.tif /Users/apope/Documents/GreenlandLakes/DEMs/gimpdem_90m_PolarStereo.tif
