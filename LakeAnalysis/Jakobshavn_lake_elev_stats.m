@@ -153,7 +153,7 @@ clear elev index
 save Jakobs_lake_elev_depth_stats
 
 %Can plot all depth vs elevation
-scatter(max_depth(:,1),max_depth(:,2),10,max_depth(:,3)); %plots figure 6b
+scatter(max_depth(:,1),max_depth(:,2),20,max_depth(:,3),'filled'); %plots figure 6b
 colorbar;
 
 plot(depths_in_mm/1000,total); %plots figure 6a
