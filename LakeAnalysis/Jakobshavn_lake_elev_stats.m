@@ -134,12 +134,28 @@ for elev = 331:2155
    end
 end
 
+%Add which day of year for each max depth
+max_depth = [max_depth, zeros(1825,1)];
+for elev = 331:2155 
+    elev
+    index = find(lakes(:,2)==elev);
+    if size(index,1) > 1 
+       index = intersect(find(lakes(:,1)==max_depth(elev-330,2)),find(lakes(:,2)==elev)); %col 3 is DOY
+       max_depth(elev-330,3) = lakes(index(1),3);
+    end
+end
+
+%replacing seros in plot
+max_depth(find(max_depth==0)) = nan;
+
 clear elev index
 
 save Jakobs_lake_elev_depth_stats
 
 %Can plot all depth vs elevation
-scatter(max_depth(:,1),max_depth(:,2)/1000); %plots figure 6b
+scatter(max_depth(:,1),max_depth(:,2),10,max_depth(:,3)); %plots figure 6b
+colorbar;
+
 plot(depths_in_mm/1000,total); %plots figure 6a
 
 %Breakdown relationship between depths, etc. 
