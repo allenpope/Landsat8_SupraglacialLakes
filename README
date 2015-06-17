@@ -2,7 +2,9 @@
 The scripts in this folder (using MATLAB 2014b & GDAL framework package 1.11) reproduce the analysis, validation, and investigation of supraglacial lake depths in Greenland with Landsat 8 (and some other multispectral sensors). How all of the scripts work together is documented in the workflow information (see below). Note that some MATLAB scripts (developed in 2014b) require the MATLAB Mapping Toolbox (Version 4.0.2) and the Optimization Toolbox (Version 7.1). In addition, some manual steps (see Workflow diagram) are carried out using QGIS (www.qgis.org)
 
 *** Workflow Information ***
-___________________Pope_SupraglacialLake_Workflow.png: Full workflow details
+See workflow description in Pope & Scambos (Earth and Space Sciences, in prep). Workflow diagram also shared via:
+Pope, Allen (2015): Workflow for Landsat 8 Estimation of Supraglacial Lake Depths. figshare. http://dx.doi.org/10.6084/m9.figshare.1451403
+
 
 *** Folder Structure ***
 The subfolders in this repository mirror the modular pieces of the workflow involved in the research process, namely:
@@ -15,9 +17,9 @@ The subfolders in this repository mirror the modular pieces of the workflow invo
 *** Literature Citations ***
 Moratto, Z. M., M. J. Broxton, R. A. Beyer, M. Lundy, and K. Husmann. “Ames Stereo Pipeline, NASA’s Open Source Automated Stereogrammetry Software,” 41:2364, 2010. http://adsabs.harvard.edu/abs/2010LPI....41.2364M.
 
-_________Pope GeoSoft Paper in prep
+Pope, A. and T. A. Scamobs. ",", Earth and Spaces Sciences, in prep, 2015.
 
-_________Pope TC Paper in prep
+Pope, A., T. A. Scambos, M. Moussavi, M. Tedesco, M. Willis, D. Shean, and S. Grigsby. "Estimating supraglacial lake depth in western Greenland using Landsat 8 and comparison with other multispectral methods," The Cryosphere Disucssions, submitted, 2015.
 
 Shean, David E., I. R. Joughin, Ben E. Smith, Z. M. Moratto, O Alexandrov, P. J. Morin, and C. Porter. “An Automated, Open-Source Pipeline for Mass Production of Digital Elevation Models (DEMs) from Very High-Resolution Commercial Stero Satellite Imagery.” ISPRS Journal of Photogrammetry and Remote Sensing, in prep.
 
