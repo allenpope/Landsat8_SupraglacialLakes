@@ -1,6 +1,9 @@
 *** About ***
 The scripts in this folder (using MATLAB 2014b & GDAL framework package 1.11) reproduce the analysis, validation, and investigation of supraglacial lake depths in Greenland with Landsat 8 (and some other multispectral sensors). How all of the scripts work together is documented in the workflow information (see below). Note that some MATLAB scripts (developed in 2014b) require the MATLAB Mapping Toolbox (Version 4.0.2) and the Optimization Toolbox (Version 7.1). In addition, some manual steps (see Workflow diagram) are carried out using QGIS (www.qgis.org)
 
+Pope, Allen. (2015). Landsat8_SupraglacialLakes: Supraglacial Lake Depth With Landsat 8. Zenodo. http://dx.doi.org/10.5281/zenodo.18707
+
+
 *** Workflow Information ***
 See workflow description in Pope & Scambos (Earth and Space Sciences, in prep). Workflow diagram also shared via:
 Pope, Allen (2015): Workflow for Landsat 8 Estimation of Supraglacial Lake Depths. figshare. http://dx.doi.org/10.6084/m9.figshare.1451403
