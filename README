@@ -1,12 +1,12 @@
 *** About ***
-The scripts in this folder (using MATLAB 2014b & GDAL framework package 1.11) reproduce the analysis, validation, and investigation of supraglacial lake depths in Greenland with Landsat 8 (and some other multispectral sensors). How all of the scripts work together is documented in the workflow information (see below). Note that some MATLAB scripts (developed in 2014b) require the MATLAB Mapping Toolbox (Version 4.0.2) and the Optimization Toolbox (Version 7.1). In addition, some manual steps (see Workflow diagram) are carried out using QGIS (www.qgis.org)
+The scripts in this folder (using MATLAB 2014b & GDAL framework package 1.11) build on earlier lake depth analysis, applying them to a 2015 case study. How all of the scripts work together is documented in the workflow information (see below). Note that some MATLAB scripts (developed in 2014b) require the MATLAB Mapping Toolbox (Version 4.0.2) and the Optimization Toolbox (Version 7.1). In addition, some manual steps (see Workflow diagram) are carried out using QGIS (www.qgis.org)
 
-Pope, Allen. (2015). Landsat8_SupraglacialLakes: Supraglacial Lake Depth With Landsat 8. Zenodo. http://dx.doi.org/10.5281/zenodo.18707
+Pope, Allen. (2016). ___Title____. Zenodo. DOI
 
 
 *** Workflow Information ***
-See workflow description in Pope & Scambos (Earth and Space Sciences, in prep). Workflow diagram also shared via:
-Pope, Allen (2015): Workflow for Landsat 8 Estimation of Supraglacial Lake Depths. figshare. http://dx.doi.org/10.6084/m9.figshare.1451403
+See workflow description in Pope 2016 (Earth and Space Science). Provenance and workflow diagrams also shared via:
+Pope, Allen (2016): _________ figshare. DOI
 
 
 *** Folder Structure ***
@@ -20,7 +20,7 @@ The subfolders in this repository mirror the modular pieces of the workflow invo
 *** Literature Citations ***
 Moratto, Z. M., M. J. Broxton, R. A. Beyer, M. Lundy, and K. Husmann. “Ames Stereo Pipeline, NASA’s Open Source Automated Stereogrammetry Software,” 41:2364, 2010. http://adsabs.harvard.edu/abs/2010LPI....41.2364M.
 
-Pope, A. and T. A. Scamobs. ",", Earth and Spaces Sciences, in prep, 2015.
+Pope, A. "Reproducibly Estimating and Evaluating Supraglacial Lake Depth With Landsat 8 and Other Multispectral Sensors", Earth and Spaces Science, in prep, 2015.
 
 Pope, A., T. A. Scambos, M. Moussavi, M. Tedesco, M. Willis, D. Shean, and S. Grigsby. "Estimating supraglacial lake depth in western Greenland using Landsat 8 and comparison with other multispectral methods," The Cryosphere Disucssions, submitted, 2015.
 
@@ -34,7 +34,7 @@ Howat, I.M., A. Negrete, B.E. Smith, 2014, The Greenland Ice Mapping Project (GI
 
 Pope, Allen (2015): Landsat 8 Scenes Used for Greenland Supraglacial Lake Depth Analysis. figshare. http://dx.doi.org/10.6084/m9.figshare.1328470
 
-Pope, Allen (2015): Sermeq Kujallq (Jakobshavn) Area 2014 Landsat 8 Lake Depths. figshare. http://dx.doi.org/10.6084/m9.figshare.1328577
+Pope, Allen (2015): Sermeq Kujalleq (Jakobshavn) Area 2014 Landsat 8 Lake Depths. figshare. http://dx.doi.org/10.6084/m9.figshare.1328577
 
 Pope, Allen (2015): 2013 Northwest Greenland Lake Depths from Landsat 8. figshare. http://dx.doi.org/10.6084/m9.figshare.1367639
 
