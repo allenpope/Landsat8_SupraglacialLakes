@@ -1,6 +1,0 @@
-Describes the subsetted area for lake depth studies in Northwest Greenland
-using Landsat 8 imagery
-Summer, 2013
-
-Projection: UTM
-Zone: 21NDatum: WGS 84Pixel size: 30 mColumns: 2301Rows: 3001Image extent:(450255, 8320815) to (519285, 8410845)Center of upper left pixel:(450270, 8410830)

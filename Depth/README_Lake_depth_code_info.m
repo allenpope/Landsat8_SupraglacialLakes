@@ -40,16 +40,8 @@ Jakobshavn_Band48_avg.m
 %Takes Band 8 Depth and Band 4 Depth and averages to get a final lake depth
 
 %Step 7: 
-Jakobshavn_lake_vol_calc.m
+Jakobshavn_lake_volume.m
 %Reads in Band48 Depth average (i.e. the best)
-%Scales based on pixels size and converts from mm
+%Scales based on pixels size and converts from mm to lake volume
+%Plots Figure 4 (Pope 2016, Earth and Space Science)
 
-%Other:
-Jakobshavn_lake_elev_stats.m
-%Calculating depth - elevation statistics from depth & GIMP-DEM data
-
-%Plotting Figure 3 using NW lake depth data directly
-Figure3_code.m
-
-%Plotting Figure 5 using Sermeq Kujalleq data directly
-Figure5_code.m

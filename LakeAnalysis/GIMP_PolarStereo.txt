@@ -4,4 +4,4 @@
 //Reprojects into recognized Polar Stereographic
 //will need to edit exact input and output directories
 
-gdalwarp -overwrite -t_srs EPSG:3995 -r bilinear -of GTiff /Users/apope/Documents/GreenlandLakes/DEMs/gimpdem_90m.tif /Users/apope/Documents/GreenlandLakes/DEMs/gimpdem_90m_PolarStereo.tif
+gdalwarp -overwrite -t_srs EPSG:3995 -r bilinear -of GTiff /Users/ap556/Downloads/gimpdem_90m.tif /Users/ap556/Downloads/gimpdem_90m_PolarStereo.tif

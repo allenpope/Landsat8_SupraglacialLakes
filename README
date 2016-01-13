@@ -11,40 +11,23 @@ Pope, Allen (2016): _________ figshare. DOI
 
 *** Folder Structure ***
 The subfolders in this repository mirror the modular pieces of the workflow involved in the research process, namely:
-*InSitu: Using In Situ spectra and depth measurements from a supraglacial lake in Greenland to test the theoretical performance of a range of satellite based multispectral lake depth retrievals
 *Depth: Taking Landsat 8 data and calculating lake depths, specifically for the case study are of this work (Sermeq Kujalleq / Jakobshavn area, Greenland)
-*WorldView: Processing information for WorldView Stereo digital elevation models
-*Validation: Comparing WorldView DEMs and lake depth retrievals to identify the best performance
-*LakeAnalysis: Using the Band 4 & Band 8 average (identified as best in Validation) to investigate the behaviour of lake depths in the Jakobshavn region in summer 2014
+*LakeAnalysis: Using the Band 4 & Band 8 average (identified as best in Validation) to investigate the behaviour of lake depths in the Jakobshavn region in summer 2015 - producing a histogram of depths and studying relative elevations on the ice sheet.
 
 *** Literature Citations ***
-Moratto, Z. M., M. J. Broxton, R. A. Beyer, M. Lundy, and K. Husmann. “Ames Stereo Pipeline, NASA’s Open Source Automated Stereogrammetry Software,” 41:2364, 2010. http://adsabs.harvard.edu/abs/2010LPI....41.2364M.
-
-Pope, A. "Reproducibly Estimating and Evaluating Supraglacial Lake Depth With Landsat 8 and Other Multispectral Sensors", Earth and Spaces Science, in prep, 2015.
+Pope, A. "Reproducibly Estimating and Evaluating Supraglacial Lake Depth With Landsat 8 and Other Multispectral Sensors", Earth and Spaces Science, in review, 2016.
 
 Pope, A., T. A. Scambos, M. Moussavi, M. Tedesco, M. Willis, D. Shean, and S. Grigsby. "Estimating supraglacial lake depth in western Greenland using Landsat 8 and comparison with other multispectral methods," The Cryosphere Disucssions, submitted, 2015.
-
-Shean, David E., I. R. Joughin, Ben E. Smith, Z. M. Moratto, O Alexandrov, P. J. Morin, and C. Porter. “An Automated, Open-Source Pipeline for Mass Production of Digital Elevation Models (DEMs) from Very High-Resolution Commercial Stero Satellite Imagery.” ISPRS Journal of Photogrammetry and Remote Sensing, in prep.
-
-Willis, Michael J., Bradley G. Herried, Michael G. Bevis, and Robin E. Bell. “Recharge of a Subglacial Lake by Surface Meltwater in Northeast Greenland.” Nature 518, no. 7538 (February 12, 2015): 223–27. doi:10.1038/nature14116.
-
 
 *** Data Citations ***
 Howat, I.M., A. Negrete, B.E. Smith, 2014, The Greenland Ice Mapping Project (GIMP) land classification and surface elevation datasets, The Cryosphere, 8, 1509-1518, doi:10.5194/tc-8-1509-2014
 
-Pope, Allen (2015): Landsat 8 Scenes Used for Greenland Supraglacial Lake Depth Analysis. figshare. http://dx.doi.org/10.6084/m9.figshare.1328470
+
+Pope, Allen (2016): Sermeq Kujalleq 2015 Landsat 8 Scenes. figshare.
+https://dx.doi.org/10.6084/m9.figshare.2062737.v1
+
+
+____2015 outputs
 
 Pope, Allen (2015): Sermeq Kujalleq (Jakobshavn) Area 2014 Landsat 8 Lake Depths. figshare. http://dx.doi.org/10.6084/m9.figshare.1328577
 
-Pope, Allen (2015): 2013 Northwest Greenland Lake Depths from Landsat 8. figshare. http://dx.doi.org/10.6084/m9.figshare.1367639
-
-Pope, A., and Rees, W.G. (2015): Langjokull (Iceland) Facies Reflectance Spectra - Summer 2011. UCAR/NCAR - CISL - ACADIS. Dataset. http://dx.doi.org/10.5065/D6S46Q0D
-
-Pope, A. and Rees, W. G. (2015): Midtre Lovenbreen (Svalbard) Facies Reflectance Spectra - Summer 2010. UCAR/NCAR - CISL - ACADIS. Dataset. http://dx.doi.org/10.5065/D6WW7FQD
-
-Shean, David; Pope, Allen (2015): Jakobshavn WorldView DEMs. figshare.
-http://dx.doi.org/10.6084/m9.figshare.1333624
-
-Tedesco, M., N. Steiner, and A. Pope (2015): In situ spectral reflectance and depth of a supraglacial lake in Greenland. UCAR/NCAR - CISL - ACADIS. Dataset. http://dx.doi.org/10.5065/D6FQ9TN2
-
-Willis, Mike; Pope, Allen (2015): Northwest Greenland WorldView DEMs. figshare. http://dx.doi.org/10.6084/m9.figshare.1328600
