@@ -1,13 +1,8 @@
 *** About ***
 The scripts in this folder (using MATLAB 2014b & GDAL framework package 1.11) build on earlier lake depth analysis, applying them to a 2015 case study. How all of the scripts work together is documented in the workflow information (see below). Note that some MATLAB scripts (developed in 2014b) require the MATLAB Mapping Toolbox (Version 4.0.2) and the Optimization Toolbox (Version 7.1). In addition, some manual steps (see Workflow diagram) are carried out using QGIS (www.qgis.org)
 
-Pope, Allen. (2016). ___Title____. Zenodo. DOI
-
-
 *** Workflow Information ***
-See workflow description in Pope 2016 (Earth and Space Science). Provenance and workflow diagrams also shared via:
-Pope, Allen (2016): _________ figshare. DOI
-
+See workflow description in Pope 2016 (Earth and Space Science). Provenance diagram (SK15_provenance.pdf) also shared in this repository.
 
 *** Folder Structure ***
 The subfolders in this repository mirror the modular pieces of the workflow involved in the research process, namely:
@@ -17,17 +12,13 @@ The subfolders in this repository mirror the modular pieces of the workflow invo
 *** Literature Citations ***
 Pope, A. "Reproducibly Estimating and Evaluating Supraglacial Lake Depth With Landsat 8 and Other Multispectral Sensors", Earth and Spaces Science, in review, 2016.
 
-Pope, A., T. A. Scambos, M. Moussavi, M. Tedesco, M. Willis, D. Shean, and S. Grigsby. "Estimating supraglacial lake depth in western Greenland using Landsat 8 and comparison with other multispectral methods," The Cryosphere Disucssions, submitted, 2015.
+Pope, A., T. A. Scambos, M. Moussavi, M. Tedesco, M. Willis, D. Shean, and S. Grigsby. "Estimating supraglacial lake depth in western Greenland using Landsat 8 and comparison with other multispectral methods," The Cryosphere, in press, 2016.
 
 *** Data Citations ***
 Howat, I.M., A. Negrete, B.E. Smith, 2014, The Greenland Ice Mapping Project (GIMP) land classification and surface elevation datasets, The Cryosphere, 8, 1509-1518, doi:10.5194/tc-8-1509-2014
 
-
 Pope, Allen (2016): Sermeq Kujalleq 2015 Landsat 8 Scenes. figshare.
 https://dx.doi.org/10.6084/m9.figshare.2062737.v1
 
-
-____2015 outputs
-
-Pope, Allen (2015): Sermeq Kujalleq (Jakobshavn) Area 2014 Landsat 8 Lake Depths. figshare. http://dx.doi.org/10.6084/m9.figshare.1328577
-
+Pope, Allen (2016): Sermeq Kujalleq Area 2015 Landsat 8 Lake Depths. figshare.
+https://dx.doi.org/10.6084/m9.figshare.2063313.v2
